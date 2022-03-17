@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="RUBY_MODULE" version="4">
+  <component name="ModuleRunConfigurationManager">
+    <shared />
+  </component>
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/features" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/spec" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/test" isTestSource="true" />
+    </content>
+    <orderEntry type="jdk" jdkName="RVM: ruby-3.0.3" jdkType="RUBY_SDK" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library">
+      <library name="nokogiri (vbundled(1.13.1)) [path][gem]" type="rubylib">
+        <properties>
+          <option name="version" value="4" />
+        </properties>
+        <CLASSES>
+          <root url="file://$USER_HOME$/.gem/ruby/3.0.0/gems/nokogiri-1.13.1-x86_64-linux/bin" />
+          <root url="file://$USER_HOME$/.gem/ruby/3.0.0/gems/nokogiri-1.13.1-x86_64-linux/ext" />
+          <root url="file://$USER_HOME$/.gem/ruby/3.0.0/gems/nokogiri-1.13.1-x86_64-linux/lib" />
+          <root url="file://$USER_HOME$/.gem/ruby/3.0.0/gems/nokogiri-1.13.1-x86_64-linux/gumbo-parser" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="file://$USER_HOME$/.gem/ruby/3.0.0/gems/nokogiri-1.13.1-x86_64-linux/bin" />
+          <root url="file://$USER_HOME$/.gem/ruby/3.0.0/gems/nokogiri-1.13.1-x86_64-linux/ext" />
+          <root url="file://$USER_HOME$/.gem/ruby/3.0.0/gems/nokogiri-1.13.1-x86_64-linux/lib" />
+          <root url="file://$USER_HOME$/.gem/ruby/3.0.0/gems/nokogiri-1.13.1-x86_64-linux/gumbo-parser" />
+        </SOURCES>
+        <excluded>
+          <root url="file://$USER_HOME$/.gem/ruby/3.0.0/gems/nokogiri-1.13.1-x86_64-linux/bin" />
+          <root url="file://$USER_HOME$/.gem/ruby/3.0.0/gems/nokogiri-1.13.1-x86_64-linux/ext" />
+          <root url="file://$USER_HOME$/.gem/ruby/3.0.0/gems/nokogiri-1.13.1-x86_64-linux/gumbo-parser" />
+        </excluded>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="racc (vbundled(1.6.0)) [path][gem]" type="rubylib">
+        <properties>
+          <option name="version" value="4" />
+        </properties>
+        <CLASSES>
+          <root url="file://$USER_HOME$/.gem/ruby/3.0.0/gems/racc-1.6.0/bin" />
+          <root url="file://$USER_HOME$/.gem/ruby/3.0.0/gems/racc-1.6.0/doc" />
+          <root url="file://$USER_HOME$/.gem/ruby/3.0.0/gems/racc-1.6.0/ext" />
+          <root url="file://$USER_HOME$/.gem/ruby/3.0.0/gems/racc-1.6.0/lib" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="file://$USER_HOME$/.gem/ruby/3.0.0/gems/racc-1.6.0/bin" />
+          <root url="file://$USER_HOME$/.gem/ruby/3.0.0/gems/racc-1.6.0/doc" />
+          <root url="file://$USER_HOME$/.gem/ruby/3.0.0/gems/racc-1.6.0/ext" />
+          <root url="file://$USER_HOME$/.gem/ruby/3.0.0/gems/racc-1.6.0/lib" />
+        </SOURCES>
+        <excluded>
+          <root url="file://$USER_HOME$/.gem/ruby/3.0.0/gems/racc-1.6.0/bin" />
+          <root url="file://$USER_HOME$/.gem/ruby/3.0.0/gems/racc-1.6.0/doc" />
+          <root url="file://$USER_HOME$/.gem/ruby/3.0.0/gems/racc-1.6.0/ext" />
+        </excluded>
+      </library>
+    </orderEntry>
+    <orderEntry type="library" scope="PROVIDED" name="bundler (v2.3.5, RVM: ruby-3.0.3) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="csv (v3.1.9, RVM: ruby-3.0.3) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="json (v2.5.1, RVM: ruby-3.0.3) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="uri (v0.10.1, RVM: ruby-3.0.3) [gem]" level="application" />
+  </component>
+</module>
